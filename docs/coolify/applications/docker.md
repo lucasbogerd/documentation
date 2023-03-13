@@ -57,7 +57,7 @@ FROM baserow/baserow:1.10.2
 ```
 
 - Create an application in Coolify:
-   1. Click on `Create New Resoruce` button and select `Application`
+   1. Click on `Create New Resource` button and select `Application`
    2. Select a GitSource that has access to the repository or specify a Public Repository URL.
    :::tip
    With Public Repository, you won't get the auto-commit builds. You need to initiate rebuild manually.
